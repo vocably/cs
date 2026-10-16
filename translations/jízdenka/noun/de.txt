@@ -1,0 +1,2 @@
+die Fahrkarte
+der Fahrschein

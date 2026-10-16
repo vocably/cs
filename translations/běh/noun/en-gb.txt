@@ -1,0 +1,4 @@
+run
+running
+course
+operation
